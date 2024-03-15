@@ -1,4 +1,4 @@
-<h3 align="center">Network Security is My Hobbies</h3>
+<h3 align="center">Network Security & BlackHat SEO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trickasta1337&label=Profile%20views&color=0e75b6&style=flat" alt="trickasta1337" /> </p>
 
